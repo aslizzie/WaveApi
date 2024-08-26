@@ -1,0 +1,141 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Projects\\MEGA\\WaveApi\\wwwroot\\movies\\inception_hero.jpg",
+      "PackagePath": "staticwebassets\\movies\\inception_hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Projects\\MEGA\\WaveApi\\wwwroot\\movies\\inception_poster.jpg",
+      "PackagePath": "staticwebassets\\movies\\inception_poster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Projects\\MEGA\\WaveApi\\wwwroot\\movies\\interstellar_hero.jpeg",
+      "PackagePath": "staticwebassets\\movies\\interstellar_hero.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Projects\\MEGA\\WaveApi\\wwwroot\\movies\\interstellar_poster.jpg",
+      "PackagePath": "staticwebassets\\movies\\interstellar_poster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Projects\\MEGA\\WaveApi\\wwwroot\\movies\\the_dark_knight_hero.jpeg",
+      "PackagePath": "staticwebassets\\movies\\the_dark_knight_hero.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Projects\\MEGA\\WaveApi\\wwwroot\\movies\\the_dark_knight_poster.jpg",
+      "PackagePath": "staticwebassets\\movies\\the_dark_knight_poster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Projects\\MEGA\\WaveApi\\wwwroot\\movies\\the_lord_of_the_rings_hero.jpg",
+      "PackagePath": "staticwebassets\\movies\\the_lord_of_the_rings_hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Projects\\MEGA\\WaveApi\\wwwroot\\movies\\the_lord_of_the_rings_poster.jpeg",
+      "PackagePath": "staticwebassets\\movies\\the_lord_of_the_rings_poster.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Projects\\MEGA\\WaveApi\\wwwroot\\movies\\the_matrix_hero.jpg",
+      "PackagePath": "staticwebassets\\movies\\the_matrix_hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Projects\\MEGA\\WaveApi\\wwwroot\\movies\\the_matrix_poster.jpg",
+      "PackagePath": "staticwebassets\\movies\\the_matrix_poster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Projects\\MEGA\\WaveApi\\wwwroot\\series\\black_mirror_hero.jpg",
+      "PackagePath": "staticwebassets\\series\\black_mirror_hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Projects\\MEGA\\WaveApi\\wwwroot\\series\\black_mirror_poster.jpg",
+      "PackagePath": "staticwebassets\\series\\black_mirror_poster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Projects\\MEGA\\WaveApi\\wwwroot\\series\\breaking_bad_hero.jpg",
+      "PackagePath": "staticwebassets\\series\\breaking_bad_hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Projects\\MEGA\\WaveApi\\wwwroot\\series\\breaking_bad_poster.jpg",
+      "PackagePath": "staticwebassets\\series\\breaking_bad_poster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Projects\\MEGA\\WaveApi\\wwwroot\\series\\friends_hero.jpeg",
+      "PackagePath": "staticwebassets\\series\\friends_hero.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Projects\\MEGA\\WaveApi\\wwwroot\\series\\friends_poster.jpg",
+      "PackagePath": "staticwebassets\\series\\friends_poster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Projects\\MEGA\\WaveApi\\wwwroot\\series\\game_of_thrones_hero.jpg",
+      "PackagePath": "staticwebassets\\series\\game_of_thrones_hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Projects\\MEGA\\WaveApi\\wwwroot\\series\\game_of_thrones_poster.jpg",
+      "PackagePath": "staticwebassets\\series\\game_of_thrones_poster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Projects\\MEGA\\WaveApi\\wwwroot\\series\\sherlock_hero.jpg",
+      "PackagePath": "staticwebassets\\series\\sherlock_hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Projects\\MEGA\\WaveApi\\wwwroot\\series\\sherlock_poster.jpg",
+      "PackagePath": "staticwebassets\\series\\sherlock_poster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Projects\\MEGA\\WaveApi\\wwwroot\\series\\stranger_things_hero.jpg",
+      "PackagePath": "staticwebassets\\series\\stranger_things_hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Projects\\MEGA\\WaveApi\\wwwroot\\series\\stranger_things_poster.jpg",
+      "PackagePath": "staticwebassets\\series\\stranger_things_poster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Projects\\MEGA\\WaveApi\\wwwroot\\series\\the_mandalorian_hero.jpeg",
+      "PackagePath": "staticwebassets\\series\\the_mandalorian_hero.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Projects\\MEGA\\WaveApi\\wwwroot\\series\\the_mandalorian_poster.jpg",
+      "PackagePath": "staticwebassets\\series\\the_mandalorian_poster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Projects\\MEGA\\WaveApi\\wwwroot\\series\\the_office_hero.jpeg",
+      "PackagePath": "staticwebassets\\series\\the_office_hero.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Projects\\MEGA\\WaveApi\\wwwroot\\series\\the_office_poster.jpg",
+      "PackagePath": "staticwebassets\\series\\the_office_poster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Projects\\MEGA\\WaveApi\\wwwroot\\series\\the_simpons_hero.jpg",
+      "PackagePath": "staticwebassets\\series\\the_simpons_hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Projects\\MEGA\\WaveApi\\wwwroot\\series\\the_simpons_poster.jpg",
+      "PackagePath": "staticwebassets\\series\\the_simpons_poster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Projects\\MEGA\\WaveApi\\wwwroot\\series\\the_witcher_hero.jpg",
+      "PackagePath": "staticwebassets\\series\\the_witcher_hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Projects\\MEGA\\WaveApi\\wwwroot\\series\\the_witcher_poster.jpg",
+      "PackagePath": "staticwebassets\\series\\the_witcher_poster.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WaveApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WaveApi.props",
+      "PackagePath": "build\\WaveApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WaveApi.props",
+      "PackagePath": "buildMultiTargeting\\WaveApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WaveApi.props",
+      "PackagePath": "buildTransitive\\WaveApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
