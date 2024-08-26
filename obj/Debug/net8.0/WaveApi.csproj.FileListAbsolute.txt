@@ -146,3 +146,4 @@ C:\Users\diana\Desktop\Projects\MEGA\WaveApi\bin\Debug\net8.0\runtimes\win-x64\n
 C:\Users\diana\Desktop\Projects\MEGA\WaveApi\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
 C:\Users\diana\Desktop\Projects\MEGA\WaveApi\bin\Debug\net8.0\WaveApi.staticwebassets.runtime.json
 C:\Users\diana\Desktop\Projects\MEGA\WaveApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\diana\Desktop\Projects\MEGA\WaveApi\obj\Debug\net8.0\WaveApi.sourcelink.json
